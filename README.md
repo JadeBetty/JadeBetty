@@ -7,6 +7,7 @@ I'm experienced using DiscordJS for creating bots and MongoDB for databases.
 I know some of QuickDB too.
 
 ### Interested? 
+- 💡 I want to: Learn more about Linux, and more about Python.
 - 💬 Ask me about DiscordJS
 - 📫 Contact me on Discord, my username is jadebetty
 - 😄 My pronouns are he/him

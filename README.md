@@ -1,14 +1,17 @@
-## Hello! I'm JadeBetty 👋
-Thanks for visiting my github profile! I'm JadeBetty, a cambodian programmer who knows about NodeJS. You will find the source code for Sispiler, and other projects that I have made [here](https://github.com/JadeBetty?tab=repositories)! Feel free to make a request or contribute to the projects!
+## Hey there! I'm JadeBetty
+I'm a cambodian programmer, please give me a read about me below.
 
-### Skills
-The only programming language that I know is JavaScript, specifically, NodeJS.
-I'm experienced using DiscordJS for creating bots and MongoDB for databases.
-I know some of QuickDB too.
+You can find projects that I've made in my years of using NodeJs [here](https://github.com/JadeBetty?tab=repositories) Feel free to contribute to them!
 
-### Interested? 
-- 💡 I want to: Learn more about Linux, and more about Python.
-- 💬 Ask me about DiscordJS
-- 📫 Contact me on Discord, my username is jadebetty
-- 😄 My pronouns are he/him
-- ⚡ Fun fact: **I enjoy going for a ride on the mountains!**
+### My Skills
+I know a lot about NodeJS, mostly experieced with DiscordJS, MongoDB and Html.
+
+### Contact
+You can email me at contact@jadebetty.is-a.dev
+Visit my portofolio: jadebetty.is-a.dev
+Or you could directly message me via Discord (my user name is jadebetty)
+
+### What else?
+- I want to learn more about linux, and explore other languages.
+- I love riding mountain bikes on the mountains.
+

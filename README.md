@@ -1,7 +1,7 @@
 ## Hey there! I'm JadeBetty
 I'm a Cambodian programmer, please give me a read about me below.
 
-> Thanks for visiting my Github profile, I'm a junior-high-school programmer, I mostly spend my time playing around with NodeJS, Astro, Linux configurations, and playing around with Discord.JS/
+> Thanks for visiting my Github profile, I'm a junior-high-school programmer, I mostly spend my time playing around with NodeJS, Astro, Linux configurations, and playing around with Discord.JS.
 
 You can find projects that I've made in my years of using NodeJS [here](https://github.com/JadeBetty?tab=repositories)
 

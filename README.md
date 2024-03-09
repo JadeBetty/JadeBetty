@@ -37,7 +37,6 @@ Portfolio: https://jadebetty.me
 - I want to learn more about Web development, and more about backend development.
 - I want to be a full stack developer someday
 
-- 
+
 ### That's it!
-Thank you for your time reading this.
 

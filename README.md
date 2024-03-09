@@ -4,6 +4,7 @@ I'm a Cambodian programmer, please give me a read about me below.
 > Thanks for visiting my Github profile, I'm a junior-high-school programmer, I mostly spend my time playing around with NodeJS, Astro, Linux configurations, and playing around with Discord.JS/
 
 You can find projects that I've made in my years of using NodeJS [here](https://github.com/JadeBetty?tab=repositories)
+
 Feel free to contribute to them at any time!
 
 ### My Skills
@@ -19,7 +20,9 @@ I know a lot about NodeJS, mostly experienced with DiscordJS, and MongoDB.
 
 ### Contacts
 Email: contact@jadebetty.me
+
 Discord: https://discord.com/users/758617912566087681
+
 Portfolio: https://jadebetty.me
 
 

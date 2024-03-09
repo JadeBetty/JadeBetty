@@ -19,6 +19,8 @@ You can email me at contact@jadebetty.me
 Visit my portofolio: https://jadebetty.me
 Or visit my first portfolio: https://v1.jadebetty.me
 Or you could directly message me via Discord (my user name is jadebetty)
+
+
 <img src="https://discord.c99.nl/widget/theme-4/758617912566087681.png">
 
 ### What else?

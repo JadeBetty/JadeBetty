@@ -1,3 +1,3 @@
 inactive.
 
-contacts: contacts.jadebetty.me
+contacts: jadebetty.tech
